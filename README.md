@@ -32,9 +32,13 @@ The goal is to explore global trends and derive insights by analyzing the relati
 
 covid19-analysis-project/
 │
+
 ├── covid_19_analysis.ipynb 
+
 ├── README.md 
+
 ├── COVID-19 dataset.csv 
+
 └── worldwide_happiness_report.csv 
 
 ## Key Findings
